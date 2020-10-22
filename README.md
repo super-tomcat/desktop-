@@ -1,2 +1,2 @@
 # desktop++
-Additional functionality for Emacs Desktop+
+Put Emacs Desktop+ package on a menu for quicker access
