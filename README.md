@@ -1,6 +1,8 @@
 # desktop++
 Put Emacs Desktop+ package on a menu for quicker access
 
+I have got more to add to this, so bear with me :-)
+
 This is a small enhancement to the emacs DESKTOP+ PACKAGE.. https://github.com/ffevotte/desktop-plus
 
 Desktop+ is easier to use than the Builtin Desktop (which this still needs).
